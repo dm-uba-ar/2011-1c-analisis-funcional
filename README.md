@@ -11,10 +11,6 @@
 - [Práctica 7](practica7.pdf)
 - [Práctica 8](practica8.pdf)
 
-## Bibliografía
-
-- Home » Enseñanza » Materias » Primer Cuatrimestre 2011 » Análisis Funcional » Bibliografía sugerida
-
 ## Página original
 
 [Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2011/analisis_funcional/)
